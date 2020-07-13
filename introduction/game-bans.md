@@ -4,11 +4,11 @@ There are several types of game ban in CS:GO :
 
 ## VAC
 
-Mostly happens when you used a detected cheat. These kind of bans are permanent, and you lose your inventory and cannot play matchmaking. HvH servers are fine though, because they always have VAC deactivated.
+VAC bans are bans by Valve Anti-Cheat. Mostly happens when you used a detected cheat. These kind of bans are permanent, and you lose your inventory and cannot play matchmaking. HvH servers are fine though, because they always have VAC deactivated.
 
 ## Overwatch Ban
 
-Overwatch bans are manual bans where players watch your demos and ban you.
+Overwatch bans are applied through the ingame report feature and VACNet, which will cause your matchmaking demo to be reviewed by other players with Overwatch unlocked. They then get to watch 8 rounds of an anonymized demo, and if a majority of the players decide you are guilty of cheating, you will be overwatch banned.
 
 ## Griefing ban
 
