@@ -7,15 +7,16 @@ These are the terms that are commonly used in the CS:GO cheating community:
 * P2C - Cheat software that requires the user to pay for it.
 * F2C - Cheat software that don't requires the user to pay for it.
 * Paste - Cheats that use code which isn't written by them. However most of them behave quite bad and the chances of getting detected by anti-cheat software are very high. Also some scammers would use them as a base to scam people. However people also use this term in order to insult a cheat provider.
-* Crack - Cheats that used to be paid but now being accessible for free because of a vulnerability found in their security.
+* Crack - A single version of a cheat that gets its security removed and released to the public for free by another developer. Cracks are usually not updated and break / get detected very quickly (OTC being a notable exception).
 * Config - The configuration for the cheat. Most of the cheats in CS:GO provide a lot of features for the user to set up. A configuration file allows the user to load up pre-configurated settings to the cheat, reduces the time to set up the cheat all over again.
-* Lua/js - Some cheat providers also allow their community to create some scripts in order to let the cheat behave how the user-wanted. This could allow the user to make the cheat more flexible. Most of the scripts are written in [Lua](https://www.lua.org/), however some cheat providers provide a [JavaScript](https://en.wikipedia.org/wiki/JavaScript) API, therefore there are also scripts are written in JavaScript \(JS for short\).
+* Lua/JS - Some cheat providers also allow their community to create scripts in order to extend the cheat and let it behave how the user wants. This allows the user to make the cheat more flexible. Most of the scripts are written in [Lua](https://www.lua.org/), however some cheat providers provide a [JavaScript](https://en.wikipedia.org/wiki/JavaScript) API, therefore there are also scripts are written in JavaScript \(JS for short\).
 
 ## Cheating styles
 
 * Closet - Cheaters who tries to hide up their cheat to a maximum level in order to not get called out from other people. Mostly they will only turn on a few features, such as only toggle up a little bit of aim-assist, or a high smooth value of legit aimbot, sometimes they will also toggle up airstrafe and auto bunnyhop.
 * Legit - Which is similar to a closet cheater, who tries to play like a normal player. However the difference with closet cheaters are they will turn on more features compared to closet cheaters, such as ESP.
-* Blatant - Cheaters who turns on features that other players will notice that the cheater is cheating such as triggerbot, esp, or somteimes rage aimbot. They will have a higher chance of getting banned.
+* Blatant - Cheaters who turns on features that other players will notice that the cheater is cheating such as triggerbot, esp, or sometimes rage aimbot. They will have a higher chance of getting banned.
+* Semi-Rage - Cheaters who deliberately try and play against other cheaters in Matchmaking while still looking legit enough to not get Overwatch banned. They will usually use more legit versions of rage features such as Legit Anti-Aim and a low FOV rage aimbot.
 * Rage - Cheaters will turn on most of the features that the cheat has available in order to win a match by any cost, such as Anti-Aim, rage aimbot, esp, etc. Mostly they will receive a ban in a day or in a week, depends on how long overwatch takes or the cheat gets detected by the anti-cheat software.
 
 ## In game
