@@ -2,8 +2,9 @@
 
 These are some cheats that have been identified as scams, so just stay away from them.
 
-#TODO Section
-The cheats listed here should be avoid. However we need reasons on them.
+<!-- TODO Section
+The cheats listed here should be avoid. However we need reasons on them. -->
+
 ## DarkAim
 
 ## InsanityCheats
@@ -32,7 +33,7 @@ Fake-Reviews
 
 ## abyss.gg
 
-# End of TODO
+<!--  End of TODO -->
 
 ## Ezfrags
 
@@ -42,7 +43,7 @@ Plus we do not recommend people buying Ezfrag's premium subscription, since it i
 
 ## Project Infinity
 
-Project Infinity also has a free version, but since it has been identified as a paste, we do not recommend you to try it out.
+Project Infinity also has a free version, but since it has been identified as a paste, we do not recommend you to try it out. It's owned by the same people as Singularity.wtf, who were exposed for faking reviews and other infos about their cheat.
 
 ## Zapped
 
